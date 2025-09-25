@@ -56,7 +56,9 @@ Run it locally by opening **`index.html`** in your browser.
 ---
 
 👨‍💻 Author
+
 Tushar Jaiswal
+
 🚀 B.Tech CSE | 💡 Aspiring Software Developer | 📊 Data Science Enthusiast
 
 ---
