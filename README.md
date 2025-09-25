@@ -25,9 +25,13 @@ Run it locally by opening **`index.html`** in your browser.
 
 ## 📂 Project Structure  
 📁 Task-Manager
+
 ┣ 📜 index.html # Main HTML structure
+
 ┣ 📜 styles.css # Styling for light/dark mode and UI
+
 ┣ 📜 script.js # Task management logic
+
 ┗ 📜 README.md # Project documentation
 
 ---
@@ -40,6 +44,7 @@ Run it locally by opening **`index.html`** in your browser.
 ---
 
 📌 Future Improvements
+
 🔍 Search and filter tasks
 
 ⏳ Sort tasks by deadline or priority
@@ -48,14 +53,10 @@ Run it locally by opening **`index.html`** in your browser.
 
 📱 Make it more mobile-friendly
 
+---
+
 👨‍💻 Author
 Tushar Jaiswal
 🚀 B.Tech CSE | 💡 Aspiring Software Developer | 📊 Data Science Enthusiast
 
 ---
-
-
-
-
-
-Ask ChatGPT
